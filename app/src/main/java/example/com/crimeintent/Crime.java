@@ -1,5 +1,6 @@
 package example.com.crimeintent;
 
+import java.io.Serializable;
 import java.util.Date;
 import java.util.UUID;
 
